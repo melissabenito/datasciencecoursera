@@ -1,0 +1,9 @@
+---
+title: "HelloWorld"
+author: "Melissa Benito"
+date: "August 7, 2021"
+output: pdf_document
+---
+
+## This is a Markdown file
+This is a Markdown file presented as a submission for the MOOC "The data scientist's toolbox". 
